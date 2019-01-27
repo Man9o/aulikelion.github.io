@@ -117,7 +117,7 @@ ul > li > strong {
 }
 
 img {
-    user-drag: none; 
+    user-drag: none;
     user-select: none;
     -moz-user-select: none;
     -webkit-user-drag: none;
@@ -370,7 +370,7 @@ section hr {
 }
 
 #lions-2017 .activities article:nth-of-type(1) {
-    background: url('images/background.jpg') no-repeat center center/cover;
+    background: url('images/hackerthon.png') no-repeat center center/cover;
 }
 
 #lions-2017 .activities article:nth-of-type(2) {
@@ -382,23 +382,11 @@ section hr {
 }
 
 #lions-2017 .activities article:nth-of-type(4) {
-    background: url('images/halfthon.jpg') no-repeat center center/cover;
-}
-
-#lions-2017 .activities article:nth-of-type(5) {
-    background: url('images/ideathon2.jpg') no-repeat center center/cover;
+    background: url('images/newbiethon.jpg') no-repeat center center/cover;
 }
 
 #lions-2017 .activities article:not(.active) {
     opacity: 0;
-}
-
-#sponsors {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background: url('images/ot.jpg') no-repeat center center/cover;
 }
 
 #apply {
@@ -687,7 +675,7 @@ footer span {
     * {
         font-size: 11px;
     }
-    
+
     nav.gnb {
         justify-content: center;
     }
@@ -709,7 +697,7 @@ footer span {
     * {
         font-size: 11px;
     }
-    
+
     nav.gnb {
         justify-content: center;
     }
